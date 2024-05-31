@@ -1,0 +1,236 @@
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll.config
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.pdb
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe.config
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.rsp
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe.config
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.rsp
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.AppContext.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Console.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Http.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.ValueTuple.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe.config
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.rsp
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CoreCompileInputs.cache
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CopyComplete
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.dll
+C:\Users\omsha\source\repos\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.pdb
+D:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CoreCompileInputs.cache
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll.config
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.pdb
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe.config
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.rsp
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe.config
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.rsp
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.AppContext.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Collections.Immutable.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Console.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Globalization.Calendars.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Http.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Sockets.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Reflection.Metadata.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.ValueTuple.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe.config
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.rsp
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe.config
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CoreCompileInputs.cache
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CopyComplete
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.dll
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.pdb
+E:\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.AssemblyReference.cache
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll.config
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.pdb
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe.config
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.rsp
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe.config
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.rsp
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.AppContext.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Collections.Immutable.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Console.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Globalization.Calendars.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Http.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Sockets.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Reflection.Metadata.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.ValueTuple.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe.config
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.rsp
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe.config
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.AssemblyReference.cache
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CoreCompileInputs.cache
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CopyComplete
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.dll
+F:\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.pdb
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll.config
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\DeeptiPencilArt.pdb
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.exe.config
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csc.rsp
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.exe.config
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\csi.rsp
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.AppContext.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Collections.Immutable.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Console.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Globalization.Calendars.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Http.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Net.Sockets.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Reflection.Metadata.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.ValueTuple.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.exe.config
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\vbc.rsp
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\roslyn\VBCSCompiler.exe.config
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.AssemblyReference.cache
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CoreCompileInputs.cache
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.csproj.CopyComplete
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.dll
+E:\Simran\Skour\DeeptiPencilArt (4)\DeeptiPencilArt\DeeptiPencilArt\DeeptiPencilArt\obj\Debug\DeeptiPencilArt.pdb
